@@ -1,2 +1,2 @@
-# devops-labs
-DevOps labs – CI/CD, GitHub Actions, OpenTofu, AWS
+# DevOps Lab
+This is a sample repository for the DevOps lab.
