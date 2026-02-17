@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dockerize": "./build-docker-image.sh",
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",
