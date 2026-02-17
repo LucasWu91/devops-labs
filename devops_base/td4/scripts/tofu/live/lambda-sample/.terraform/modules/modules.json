@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"function","Source":"git::https://github.com/brikis98/devops-book.git//ch3/tofu/modules/lambda","Dir":".terraform/modules/function/ch3/tofu/modules/lambda"},{"Key":"test.deploy.validate","Source":"../../modules/test-endpoint","Dir":"../../modules/test-endpoint"}]}
